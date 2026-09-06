@@ -1,0 +1,145 @@
+- generic [ref=f4e2]:
+  - main [ref=f4e3]:
+    - complementary [ref=f4e4]:
+      - generic [ref=f4e5]:
+        - figure [ref=f4e6]:
+          - img "Bishal Avatar" [ref=f4e7]
+        - generic [ref=f4e8]:
+          - heading "Bishal Thapaliya" [level=1] [ref=f4e9]
+          - paragraph [ref=f4e10]: Front-end Developer
+      - generic [ref=f4e11]:
+        - list [ref=f4e13]:
+          - listitem [ref=f4e14]:
+            - img "mail outline" [ref=f4e16]:
+              - img "Mail" [ref=f4e18]
+            - generic [ref=f4e21]:
+              - paragraph [ref=f4e22]: Email
+              - generic "vishal.thapaliya@gmail.com" [ref=f4e23]
+          - listitem [ref=f4e24]:
+            - img "phone portrait outline" [ref=f4e26]:
+              - img "Phone Portrait" [ref=f4e28]
+            - generic [ref=f4e31]:
+              - paragraph [ref=f4e32]: Phone
+              - generic "(+33) 07 68 31 94 27" [ref=f4e33]
+          - listitem [ref=f4e34]:
+            - img "calendar outline" [ref=f4e36]:
+              - img "Calendar" [ref=f4e38]
+            - generic [ref=f4e50]:
+              - paragraph [ref=f4e51]: Birthday
+              - generic "19 September" [ref=f4e52]
+          - listitem [ref=f4e53]:
+            - img "location outline" [ref=f4e55]:
+              - img "Location" [ref=f4e57]
+            - generic [ref=f4e60]:
+              - paragraph [ref=f4e61]: Location
+              - generic "Grenoble, France" [ref=f4e62]
+        - list [ref=f4e64]:
+          - listitem [ref=f4e65]:
+            - link [ref=f4e66] [cursor=pointer]:
+              - /url: https://github.com/VishalThapaliya
+              - img "logo github" [ref=f4e67]:
+                - img "Logo Github" [ref=f4e69]
+          - listitem [ref=f4e71]:
+            - link [ref=f4e72] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/bishal-thapaliya-571643109/
+              - img "logo linkedin" [ref=f4e73]:
+                - img "Logo Linkedin" [ref=f4e75]
+          - listitem [ref=f4e77]:
+            - link [ref=f4e78] [cursor=pointer]:
+              - /url: https://x.com/BishalThapaliy5
+              - img "logo twitter" [ref=f4e79]:
+                - img "Logo Twitter" [ref=f4e81]
+          - listitem [ref=f4e83]:
+            - link [ref=f4e84] [cursor=pointer]:
+              - /url: https://www.xing.com/profile/Bishal_Thapaliya/web_profiles?sc_o=navigation_profile&sc_o_PropActionOrigin=navigation_badge_no_badge
+              - img "logo xing" [ref=f4e85]:
+                - img "Logo Xing" [ref=f4e87]
+    - generic [ref=f4e89]:
+      - navigation [ref=f4e90]:
+        - list [ref=f4e91]:
+          - listitem [ref=f4e92]:
+            - link "About" [ref=f4e93] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f4e94]:
+            - link "Resume" [ref=f4e95] [cursor=pointer]:
+              - /url: /resume
+          - listitem [ref=f4e96]:
+            - link "Portfolio" [ref=f4e97] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=f4e98]:
+            - link "Blog" [ref=f4e99] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=f4e100]:
+            - link "Contact" [ref=f4e101] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=f4e102]:
+            - link "Download CV" [ref=f4e103] [cursor=pointer]:
+              - /url: /assets/Resume_Thapaliya_Bishal-DuDUG5sz.pdf
+      - article [ref=f4e104]:
+        - heading "About Me" [level=2] [ref=f4e106]
+        - generic [ref=f4e107]:
+          - paragraph [ref=f4e108]: I build production-ready React applications with a strong focus on UI quality, performance, and automated testing. Over 6 years of experience on real-world web applications in international teams. Experienced in component-driven architecture, REST API integration, and modern UI development. Hands-on experience with Cypress, Jest, and React Testing Library to prevent regressions and improve long-term maintainability.
+          - paragraph [ref=f4e109]: Expertise in modern frontend technologies, agile teamwork, and delivering scalable, userfriendly solutions while continuously striving for improvement.
+        - generic [ref=f4e110]:
+          - heading "What I'm doing" [level=3] [ref=f4e111]
+          - list [ref=f4e112]:
+            - listitem [ref=f4e113]:
+              - img "Web design" [ref=f4e115]
+              - generic [ref=f4e116]:
+                - heading "Web design" [level=4] [ref=f4e117]
+                - paragraph [ref=f4e118]: The most modern and high-quality design made at a professional level.
+            - listitem [ref=f4e119]:
+              - img "Web development" [ref=f4e121]
+              - generic [ref=f4e122]:
+                - heading "Web development" [level=4] [ref=f4e123]
+                - paragraph [ref=f4e124]: High-quality development of sites at the professional level.
+            - listitem [ref=f4e125]:
+              - img "Mobile apps" [ref=f4e127]
+              - generic [ref=f4e128]:
+                - heading "Mobile apps" [level=4] [ref=f4e129]
+                - paragraph [ref=f4e130]: Professional development of applications for iOS and Android
+            - listitem [ref=f4e131]:
+              - img "Photography" [ref=f4e133]
+              - generic [ref=f4e134]:
+                - heading "Photography" [level=4] [ref=f4e135]
+                - paragraph [ref=f4e136]: I make high-quality photos of any category at a professional level.
+        - generic [ref=f4e137]:
+          - heading "Testimonials" [level=3] [ref=f4e138]
+          - list [ref=f4e139]:
+            - listitem [ref=f4e140]:
+              - generic [ref=f4e141] [cursor=pointer]:
+                - figure [ref=f4e142]:
+                  - img "Anthony Birembaut" [ref=f4e143]
+                - heading "Anthony Birembaut" [level=4] [ref=f4e144]
+                - paragraph [ref=f4e146]: "J’ai eu la chance de collaborer pendant plusieurs années avec Bishal au sein de la R&D de Bonitasoft. Il connaît très bien la stack web et sait en tirer le meilleur parti. Toujours force de proposition, il a énormément contribué à l’amélioration du design et de l’ergonomie de nos applications. Son regard affûté sur l’expérience utilisateur, sa capacité à challenger les designs existants et son expertise technique ont permis de faire évoluer significativement la qualité de nos produits. Bishal se distingue également par sa grande capacité d’adaptation. Il apprend rapidement, que ce soit pour monter en compétence sur une nouvelle technologie ou pour explorer un nouveau domaine fonctionnel. En plus de ses compétences techniques, Bishal a un excellent état d'esprit : - enthousiaste et enjoué tout en restant toujours professionnel et fiable - curieux, toujours prêt à aider et à trouver des solutions. Je recommande vivement Bishal à toute équipe de développement."
+            - listitem [ref=f4e147]:
+              - generic [ref=f4e148] [cursor=pointer]:
+                - figure [ref=f4e149]:
+                  - img "Nicolas Chabanoles" [ref=f4e150]
+                - heading "Nicolas Chabanoles" [level=4] [ref=f4e151]
+                - paragraph [ref=f4e153]: I hired Bishal several years ago to bring some front-end expertise to the team. Over the years, Bishal has brought his creativity and autonomy to the team to improve the User Experience of our products. Bishal is very easy to work with and is always willing to learn more to help his teammates the best.
+            - listitem [ref=f4e154]:
+              - generic [ref=f4e155] [cursor=pointer]:
+                - figure [ref=f4e156]:
+                  - img "Pablo Alonso" [ref=f4e157]
+                - heading "Pablo Alonso" [level=4] [ref=f4e158]
+                - paragraph [ref=f4e160]: I had the pleasure of working with Bishal at Bonitasoft. Beyond his contagious optimism and great team spirit, he brought real value with his sharp eye for design and user experience. His fresh perspective transformed our product interfaces, making them more modern, intuitive, and impactful. Any team would be lucky to have him onboard.
+            - listitem [ref=f4e161]:
+              - generic [ref=f4e162] [cursor=pointer]:
+                - figure [ref=f4e163]:
+                  - img "Julien Mege" [ref=f4e164]
+                - heading "Julien Mege" [level=4] [ref=f4e165]
+                - paragraph [ref=f4e167]: Bishal is a rare blend of creative UI craftsmanship and dependable teamwork—his ability to quickly adapt and support others makes him a valuable asset on any project.
+            - listitem [ref=f4e168]:
+              - generic [ref=f4e169] [cursor=pointer]:
+                - figure [ref=f4e170]:
+                  - img "Benjamin Parisel" [ref=f4e171]
+                - heading "Benjamin Parisel" [level=4] [ref=f4e172]
+                - paragraph [ref=f4e174]: Whether it's responsive design or pixel-perfect execution, Bishal excels at building interfaces that look great and feel natural to use.
+            - listitem [ref=f4e175]:
+              - generic [ref=f4e176] [cursor=pointer]:
+                - figure [ref=f4e177]:
+                  - img "Thomas Bouffard" [ref=f4e178]
+                - heading "Thomas Bouffard" [level=4] [ref=f4e179]
+                - paragraph [ref=f4e181]: With a strong grasp of modern front-end practices and a humble, team-friendly demeanor, Bishal turns complex UI challenges into smooth, beautiful solutions.
+  - contentinfo [ref=f4e182]: © 2026 | Bishal Thapaliya

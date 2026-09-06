@@ -1,0 +1,158 @@
+- generic [ref=e2]:
+  - main [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - figure [ref=e6]:
+          - img "Bishal Avatar" [ref=e7]
+        - generic [ref=e8]:
+          - heading "Bishal Thapaliya" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Front-end Developer
+      - generic [ref=e11]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - img "mail outline" [ref=e16]:
+              - img "Mail" [ref=e18]
+            - generic [ref=e21]:
+              - paragraph [ref=e22]: Email
+              - generic "vishal.thapaliya@gmail.com" [ref=e23]
+          - listitem [ref=e24]:
+            - img "phone portrait outline" [ref=e26]:
+              - img "Phone Portrait" [ref=e28]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: Phone
+              - generic "(+33) 07 68 31 94 27" [ref=e33]
+          - listitem [ref=e34]:
+            - img "calendar outline" [ref=e36]:
+              - img "Calendar" [ref=e38]
+            - generic [ref=e50]:
+              - paragraph [ref=e51]: Birthday
+              - generic "19 September" [ref=e52]
+          - listitem [ref=e53]:
+            - img "location outline" [ref=e55]:
+              - img "Location" [ref=e57]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Location
+              - generic "Grenoble, France" [ref=e62]
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link [ref=e66] [cursor=pointer]:
+              - /url: https://github.com/VishalThapaliya
+              - img "logo github" [ref=e67]:
+                - img "Logo Github" [ref=e69]
+          - listitem [ref=e71]:
+            - link [ref=e72] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/bishal-thapaliya-571643109/
+              - img "logo linkedin" [ref=e73]:
+                - img "Logo Linkedin" [ref=e75]
+          - listitem [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: https://x.com/BishalThapaliy5
+              - img "logo twitter" [ref=e79]:
+                - img "Logo Twitter" [ref=e81]
+          - listitem [ref=e83]:
+            - link [ref=e84] [cursor=pointer]:
+              - /url: https://www.xing.com/profile/Bishal_Thapaliya/web_profiles?sc_o=navigation_profile&sc_o_PropActionOrigin=navigation_badge_no_badge
+              - img "logo xing" [ref=e85]:
+                - img "Logo Xing" [ref=e87]
+    - generic [ref=e89]:
+      - navigation [ref=e90]:
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "About" [ref=e93] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e94]:
+            - link "Resume" [ref=e95] [cursor=pointer]:
+              - /url: /resume
+          - listitem [ref=e96]:
+            - link "Portfolio" [ref=e97] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e98]:
+            - link "Blog" [active] [ref=e99] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e100]:
+            - link "Contact" [ref=e101] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e102]:
+            - link "Download CV" [ref=e103] [cursor=pointer]:
+              - /url: /assets/Resume_Thapaliya_Bishal-DuDUG5sz.pdf
+      - article [ref=e587]:
+        - heading "Blog" [level=2] [ref=e589]
+        - list [ref=e591]:
+          - listitem [ref=e592]:
+            - link [ref=e593] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/build-an-infinite-scroll-app-in-react-like-a-pro-9je
+              - figure [ref=e594]:
+                - img "Build an Infinite Scroll App in React like a Pro" [ref=e595]
+              - generic [ref=e596]:
+                - generic [ref=e597]:
+                  - paragraph [ref=e598]: Frontend, React, Javascript
+                  - time [ref=e600]: May 16, 2025
+                - heading "Build an Infinite Scroll App in React like a Pro" [level=4] [ref=e601]
+                - paragraph [ref=e602]: Infinite scrolling is probably one of the most widely used features in today's web applications. Rather than relying on traditional pagination, it loads further content dynamically when users scroll. In this tutorial, you will learn how to implement a basic and simple Infinite Scroll component in React JS by fetching GitHub users from the GitHub API.
+          - listitem [ref=e603]:
+            - link [ref=e604] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/build-a-smooth-performant-image-carousel-in-react-a-beginners-guide-48ji
+              - figure [ref=e605]:
+                - img "Build a Smooth & Performant Image Carousel in React - A Beginner's Guide" [ref=e606]
+              - generic [ref=e607]:
+                - generic [ref=e608]:
+                  - paragraph [ref=e609]: Frontend, React, Javascript
+                  - time [ref=e611]: May 01, 2025
+                - heading "Build a Smooth & Performant Image Carousel in React - A Beginner's Guide" [level=4] [ref=e612]
+                - paragraph [ref=e613]: If you’re learning React and want to create a clean, responsive, and performant image carousel, you’re in the right place! In this guide, we’ll walk through building a React image carousel with auto-sliding functionality, navigation buttons, and efficient state management.
+          - listitem [ref=e614]:
+            - link [ref=e615] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/build-a-custom-clock-widget-in-bonita-ui-designer-1617
+              - figure [ref=e616]:
+                - img "Build a Custom Clock Widget in Bonita UI Designer" [ref=e617]
+              - generic [ref=e618]:
+                - generic [ref=e619]:
+                  - paragraph [ref=e620]: Frontend, Custom widget, Javascript
+                  - time [ref=e622]: Jun 9, 2021
+                - heading "Build a Custom Clock Widget in Bonita UI Designer" [level=4] [ref=e623]
+                - paragraph [ref=e624]: You’ll see how to create an analog clock widget, change the appearance of the widget when you drag and drop it onto the whiteboard in Bonita UI Designer, and how to add some CSS and JavaScript to make the clock widget functional to the end-users.
+          - listitem [ref=e625]:
+            - link [ref=e626] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/build-a-custom-search-widget-in-bonita-ui-designer-4m0j
+              - figure [ref=e627]:
+                - img "Build a Custom Search Widget in Bonita UI Designer" [ref=e628]
+              - generic [ref=e629]:
+                - generic [ref=e630]:
+                  - paragraph [ref=e631]: Frontend, Custom widget
+                  - time [ref=e633]: Oct 15, 2020
+                - heading "Build a Custom Search Widget in Bonita UI Designer" [level=4] [ref=e634]
+                - paragraph [ref=e635]: As a web developer, I love to provide users with good UX. In my opinion, this means, at the minimum, to have consistent pages, layouts, and consistent widgets within pages.
+          - listitem [ref=e636]:
+            - link [ref=e637] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/how-to-create-a-typing-animation-with-css-in-bonita-ui-designer-2ld5
+              - figure [ref=e638]:
+                - img "How to create a typing animation with CSS in Bonita UI Designer" [ref=e639]
+              - generic [ref=e640]:
+                - generic [ref=e641]:
+                  - paragraph [ref=e642]: Frontend, Custom widget
+                  - time [ref=e644]: Jul 27, 2020
+                - heading "How to create a typing animation with CSS in Bonita UI Designer" [level=4] [ref=e645]
+                - paragraph [ref=e646]: CSS allows us to add animation without using JavaScript to the HTML elements to change incrementally from one style to another as many times as we want.
+          - listitem [ref=e647]:
+            - link [ref=e648] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/how-to-create-a-circle-clip-path-hover-effect-in-bonita-ui-designer-1fn1
+              - figure [ref=e649]:
+                - img "How to create a circle clip-path hover effect in Bonita UI Designer" [ref=e650]
+              - generic [ref=e651]:
+                - generic [ref=e652]:
+                  - paragraph [ref=e653]: UI Design, Frontend
+                  - time [ref=e655]: Jul 21, 2020
+                - heading "How to create a circle clip-path hover effect in Bonita UI Designer" [level=4] [ref=e656]
+                - paragraph [ref=e657]: The CSS clip-path property allows us to set the area of an element we want to display. This cool property is very handy to create complex shapes in CSS, such as a circle, polygon, ellipse, star, pentagon, hexagon - and many more.
+          - listitem [ref=e658]:
+            - link [ref=e659] [cursor=pointer]:
+              - /url: https://dev.to/vishalthapaliya/12-simple-steps-to-build-a-neumorphic-login-page-with-bonita-ui-designer-27nh
+              - figure [ref=e660]:
+                - img "12 simple steps to build a neumorphic login page with Bonita UI Designer" [ref=e661]
+              - generic [ref=e662]:
+                - generic [ref=e663]:
+                  - paragraph [ref=e664]: UI Design, Frontend
+                  - time [ref=e666]: May 22, 2020
+                - heading "12 simple steps to build a neumorphic login page with Bonita UI Designer" [level=4] [ref=e667]
+                - paragraph [ref=e668]: The interface style known as neumorphic (a combination of skeumorphic and realistic design) has been gaining in popularity, and I think we'll see it being used more and more in 2020.
+  - contentinfo [ref=e182]: © 2026 | Bishal Thapaliya

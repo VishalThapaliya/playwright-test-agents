@@ -1,0 +1,171 @@
+- generic [ref=e2]:
+  - main [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - figure [ref=e6]:
+          - img "Bishal Avatar" [ref=e7]
+        - generic [ref=e8]:
+          - heading "Bishal Thapaliya" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Front-end Developer
+      - generic [ref=e11]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - img "mail outline" [ref=e16]:
+              - img "Mail" [ref=e18]
+            - generic [ref=e21]:
+              - paragraph [ref=e22]: Email
+              - generic "vishal.thapaliya@gmail.com" [ref=e23]
+          - listitem [ref=e24]:
+            - img "phone portrait outline" [ref=e26]:
+              - img "Phone Portrait" [ref=e28]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: Phone
+              - generic "(+33) 07 68 31 94 27" [ref=e33]
+          - listitem [ref=e34]:
+            - img "calendar outline" [ref=e36]:
+              - img "Calendar" [ref=e38]
+            - generic [ref=e50]:
+              - paragraph [ref=e51]: Birthday
+              - generic "19 September" [ref=e52]
+          - listitem [ref=e53]:
+            - img "location outline" [ref=e55]:
+              - img "Location" [ref=e57]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Location
+              - generic "Grenoble, France" [ref=e62]
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link [ref=e66] [cursor=pointer]:
+              - /url: https://github.com/VishalThapaliya
+              - img "logo github" [ref=e67]:
+                - img "Logo Github" [ref=e69]
+          - listitem [ref=e71]:
+            - link [ref=e72] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/bishal-thapaliya-571643109/
+              - img "logo linkedin" [ref=e73]:
+                - img "Logo Linkedin" [ref=e75]
+          - listitem [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: https://x.com/BishalThapaliy5
+              - img "logo twitter" [ref=e79]:
+                - img "Logo Twitter" [ref=e81]
+          - listitem [ref=e83]:
+            - link [ref=e84] [cursor=pointer]:
+              - /url: https://www.xing.com/profile/Bishal_Thapaliya/web_profiles?sc_o=navigation_profile&sc_o_PropActionOrigin=navigation_badge_no_badge
+              - img "logo xing" [ref=e85]:
+                - img "Logo Xing" [ref=e87]
+    - generic [ref=e89]:
+      - navigation [ref=e90]:
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "About" [ref=e93] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e94]:
+            - link "Resume" [active] [ref=e95] [cursor=pointer]:
+              - /url: /resume
+          - listitem [ref=e96]:
+            - link "Portfolio" [ref=e97] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e98]:
+            - link "Blog" [ref=e99] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e100]:
+            - link "Contact" [ref=e101] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e102]:
+            - link "Download CV" [ref=e103] [cursor=pointer]:
+              - /url: /assets/Resume_Thapaliya_Bishal-DuDUG5sz.pdf
+      - article [ref=e183]:
+        - heading "Resume" [level=2] [ref=e185]
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - img "briefcase" [ref=e189]:
+              - img "Briefcase" [ref=e191]
+            - heading "Experience" [level=3] [ref=e194]
+          - list [ref=e195]:
+            - listitem [ref=e196]:
+              - heading "R&D Engineer (Frontend Developer)" [level=4] [ref=e197]
+              - heading "Bonitasoft" [level=5] [ref=e198]
+              - generic [ref=e199]: Apr 2019 - Present
+              - list [ref=e200]:
+                - listitem [ref=e201]: Developed innovative UI features for Bonita Living Applications using React, Vue3, Javascript, HTML, SCSS, CSS3, Bootstrap, and Tailwind CSS.
+                - listitem [ref=e202]: Integrated REST APIs into widgets to enhance functionality and improve user experience.
+                - listitem [ref=e203]: Designed custom UI widgets in Bonita UI Builder to meet specific client requirements and improve application usability.
+                - listitem [ref=e204]: Worked closely with the product team to design user-centric interfaces, create wireframes, and build interactive prototypes using Figma.
+                - listitem [ref=e205]: Improved user experience by revamping UI components and ensuring accessibility compliance.
+                - listitem [ref=e206]: Collaborated with engineers and stakeholders to refine and enhance UI/UX solutions.
+            - listitem [ref=e207]:
+              - heading "Junior Frontend Developer" [level=4] [ref=e208]
+              - heading "Insiti" [level=5] [ref=e209]
+              - generic [ref=e210]: Sep 2018 - Feb 2019
+              - list [ref=e211]:
+                - listitem [ref=e212]: Built responsive web pages and user interfaces from design mockups and wireframes.
+                - listitem [ref=e213]: Developed frontend functionality using HTML, CSS, JavaScript, and Bootstrap.
+                - listitem [ref=e214]: Collaborated with designers to ensure precise implementation of visual and interactive elements.
+                - listitem [ref=e215]: Optimized frontend code for performance and scalability.
+                - listitem [ref=e216]: Partnered with backend developers to integrate frontend components with serverside functionality
+            - listitem [ref=e217]:
+              - heading "Junior Frontend Developer" [level=4] [ref=e218]
+              - heading "Optilian" [level=5] [ref=e219]
+              - generic [ref=e220]: Jan 2018 - Apr 2018
+              - list [ref=e221]:
+                - listitem [ref=e222]: Showcased expertise in responsive frontend development using HTML5, CSS3, JavaScript, and Bootstrap.
+                - listitem [ref=e223]: Built dynamic, user-friendly frontend interfaces.
+                - listitem [ref=e224]: Built responsive web pages and user interfaces from design mockups and wireframes.
+                - listitem [ref=e225]: Acquired hands-on experience designing with Web Services, with a strong focus on working with REST APIs.
+                - listitem [ref=e226]: Partnered with backend developers to integrate frontend components with serverside functionality
+            - listitem [ref=e227]:
+              - heading "Software License Management (Internship)" [level=4] [ref=e228]
+              - heading "Amadeus" [level=5] [ref=e229]
+              - generic [ref=e230]: Dec 2016 - May 2018
+              - list [ref=e231]:
+                - listitem [ref=e232]: Managing software inventory, software asset documentation and administration as well as documenting new software purchases/renewals.
+                - listitem [ref=e233]: Additionally, producing weekly reports as per software license consumptions, data analysis, data management and improving data quality to documenting errors to find the possible solutions.
+        - generic [ref=e234]:
+          - generic [ref=e235]:
+            - img "school" [ref=e237]:
+              - img "School" [ref=e239]
+            - heading "Education" [level=3] [ref=e242]
+          - list [ref=e243]:
+            - listitem [ref=e244]:
+              - heading "Master of Sciences & Technology - Information Systems" [level=4] [ref=e245]
+              - generic [ref=e246]: 2015 - 2017
+              - heading "École supérieure d'ingénieurs en Génie Électrique (ESIGELEC)" [level=5] [ref=e247]
+              - paragraph [ref=e248]: Rouen, France
+            - listitem [ref=e249]:
+              - heading "Master of Science in Computer Science (M.Sc. CS)" [level=4] [ref=e250]
+              - generic [ref=e251]: 2011 - 2013
+              - heading "Sikkim Manipal University (SMU)" [level=5] [ref=e252]
+              - paragraph [ref=e253]: Kathmandu, Nepal
+        - generic [ref=e254]:
+          - heading "Skills" [level=3] [ref=e255]
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - img "skill icon" [ref=e258]
+            - listitem [ref=e259]:
+              - img "skill icon" [ref=e260]
+            - listitem [ref=e261]:
+              - img "skill icon" [ref=e262]
+            - listitem [ref=e263]:
+              - img "skill icon" [ref=e264]
+            - listitem [ref=e265]:
+              - img "skill icon" [ref=e266]
+            - listitem [ref=e267]:
+              - img "skill icon" [ref=e268]
+            - listitem [ref=e269]:
+              - img "skill icon" [ref=e270]
+            - listitem [ref=e271]:
+              - img "skill icon" [ref=e272]
+            - listitem [ref=e273]:
+              - img "skill icon" [ref=e274]
+            - listitem [ref=e275]:
+              - img "skill icon" [ref=e276]
+            - listitem [ref=e277]:
+              - img "skill icon" [ref=e278]
+            - listitem [ref=e279]:
+              - img "skill icon" [ref=e280]
+            - listitem [ref=e281]:
+              - img "skill icon" [ref=e282]
+            - listitem [ref=e283]:
+              - img "skill icon" [ref=e284]
+  - contentinfo [ref=e182]: © 2026 | Bishal Thapaliya

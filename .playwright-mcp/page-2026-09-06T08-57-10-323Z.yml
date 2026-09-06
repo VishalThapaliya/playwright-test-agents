@@ -1,0 +1,307 @@
+- generic [ref=e2]:
+  - main [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - figure [ref=e6]:
+          - img "Bishal Avatar" [ref=e7]
+        - generic [ref=e8]:
+          - heading "Bishal Thapaliya" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Front-end Developer
+      - generic [ref=e11]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - img "mail outline" [ref=e16]:
+              - img "Mail" [ref=e18]
+            - generic [ref=e21]:
+              - paragraph [ref=e22]: Email
+              - generic "vishal.thapaliya@gmail.com" [ref=e23]
+          - listitem [ref=e24]:
+            - img "phone portrait outline" [ref=e26]:
+              - img "Phone Portrait" [ref=e28]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: Phone
+              - generic "(+33) 07 68 31 94 27" [ref=e33]
+          - listitem [ref=e34]:
+            - img "calendar outline" [ref=e36]:
+              - img "Calendar" [ref=e38]
+            - generic [ref=e50]:
+              - paragraph [ref=e51]: Birthday
+              - generic "19 September" [ref=e52]
+          - listitem [ref=e53]:
+            - img "location outline" [ref=e55]:
+              - img "Location" [ref=e57]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Location
+              - generic "Grenoble, France" [ref=e62]
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link [ref=e66] [cursor=pointer]:
+              - /url: https://github.com/VishalThapaliya
+              - img "logo github" [ref=e67]:
+                - img "Logo Github" [ref=e69]
+          - listitem [ref=e71]:
+            - link [ref=e72] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/bishal-thapaliya-571643109/
+              - img "logo linkedin" [ref=e73]:
+                - img "Logo Linkedin" [ref=e75]
+          - listitem [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: https://x.com/BishalThapaliy5
+              - img "logo twitter" [ref=e79]:
+                - img "Logo Twitter" [ref=e81]
+          - listitem [ref=e83]:
+            - link [ref=e84] [cursor=pointer]:
+              - /url: https://www.xing.com/profile/Bishal_Thapaliya/web_profiles?sc_o=navigation_profile&sc_o_PropActionOrigin=navigation_badge_no_badge
+              - img "logo xing" [ref=e85]:
+                - img "Logo Xing" [ref=e87]
+    - generic [ref=e89]:
+      - navigation [ref=e90]:
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "About" [ref=e93] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e94]:
+            - link "Resume" [ref=e95] [cursor=pointer]:
+              - /url: /resume
+          - listitem [ref=e96]:
+            - link "Portfolio" [active] [ref=e97] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e98]:
+            - link "Blog" [ref=e99] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e100]:
+            - link "Contact" [ref=e101] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e102]:
+            - link "Download CV" [ref=e103] [cursor=pointer]:
+              - /url: /assets/Resume_Thapaliya_Bishal-DuDUG5sz.pdf
+      - article [ref=e285]:
+        - heading "Portfolio" [level=2] [ref=e287]
+        - generic [ref=e288]:
+          - list [ref=e289]:
+            - listitem [ref=e290]:
+              - button "All" [ref=e291] [cursor=pointer]
+            - listitem [ref=e292]:
+              - button "Web development" [ref=e293] [cursor=pointer]
+            - listitem [ref=e294]:
+              - button "Web design (UI)" [ref=e295] [cursor=pointer]
+            - listitem [ref=e296]:
+              - button "Application" [ref=e297] [cursor=pointer]
+          - list [ref=e298]:
+            - listitem [ref=e299]:
+              - link [ref=e300] [cursor=pointer]:
+                - /url: https://react-app-examples.netlify.app/applications/gradient-generator
+                - figure [ref=e301]:
+                  - img "eye outline" [ref=e303]:
+                    - img "Eye" [ref=e305]
+                  - img "Random Gradient Generator" [ref=e308]
+                - heading "Random Gradient Generator" [level=3] [ref=e309]
+                - paragraph [ref=e310]: Application
+            - listitem [ref=e311]:
+              - link [ref=e312] [cursor=pointer]:
+                - /url: https://react-app-examples.netlify.app/applications/avatar-generator
+                - figure [ref=e313]:
+                  - img "eye outline" [ref=e315]:
+                    - img "Eye" [ref=e317]
+                  - img "Random Avatar Generator" [ref=e320]
+                - heading "Random Avatar Generator" [level=3] [ref=e321]
+                - paragraph [ref=e322]: Application
+            - listitem [ref=e323]:
+              - link [ref=e324] [cursor=pointer]:
+                - /url: https://react-app-examples.netlify.app/applications/file-folder-explorer
+                - figure [ref=e325]:
+                  - img "eye outline" [ref=e327]:
+                    - img "Eye" [ref=e329]
+                  - img "File/Folder Explorer" [ref=e332]
+                - heading "File/Folder Explorer" [level=3] [ref=e333]
+                - paragraph [ref=e334]: Web development
+            - listitem [ref=e335]:
+              - link [ref=e336] [cursor=pointer]:
+                - /url: https://ecommerce-product-card.netlify.app/
+                - figure [ref=e337]:
+                  - img "eye outline" [ref=e339]:
+                    - img "Eye" [ref=e341]
+                  - img "Product Showcase" [ref=e344]
+                - heading "Product Showcase" [level=3] [ref=e345]
+                - paragraph [ref=e346]: Web development
+            - listitem [ref=e347]:
+              - link [ref=e348] [cursor=pointer]:
+                - /url: https://react-app-examples.netlify.app/
+                - figure [ref=e349]:
+                  - img "eye outline" [ref=e351]:
+                    - img "Eye" [ref=e353]
+                  - img "Reactications" [ref=e356]
+                - heading "Reactications" [level=3] [ref=e357]
+                - paragraph [ref=e358]: Application
+            - listitem [ref=e359]:
+              - link [ref=e360] [cursor=pointer]:
+                - /url: https://text-to-ui.netlify.app/
+                - figure [ref=e361]:
+                  - img "eye outline" [ref=e363]:
+                    - img "Eye" [ref=e365]
+                  - img "Text-To-UI" [ref=e368]
+                - heading "Text-To-UI" [level=3] [ref=e369]
+                - paragraph [ref=e370]: Application
+            - listitem [ref=e371]:
+              - link [ref=e372] [cursor=pointer]:
+                - /url: https://bibi-gemini-clone.netlify.app/
+                - figure [ref=e373]:
+                  - img "eye outline" [ref=e375]:
+                    - img "Eye" [ref=e377]
+                  - img "Google Gemini Clone (AI)" [ref=e380]
+                - heading "Google Gemini Clone (AI)" [level=3] [ref=e381]
+                - paragraph [ref=e382]: Application
+            - listitem [ref=e383]:
+              - link [ref=e384] [cursor=pointer]:
+                - /url: https://infinite-github-users.netlify.app/
+                - figure [ref=e385]:
+                  - img "eye outline" [ref=e387]:
+                    - img "Eye" [ref=e389]
+                  - img "Infinite Github Users" [ref=e392]
+                - heading "Infinite Github Users" [level=3] [ref=e393]
+                - paragraph [ref=e394]: Application
+            - listitem [ref=e395]:
+              - link [ref=e396] [cursor=pointer]:
+                - /url: https://bibi-cars.netlify.app/
+                - figure [ref=e397]:
+                  - img "eye outline" [ref=e399]:
+                    - img "Eye" [ref=e401]
+                  - img "Peugeot clone" [ref=e404]
+                - heading "Peugeot clone" [level=3] [ref=e405]
+                - paragraph [ref=e406]: Web development
+            - listitem [ref=e407]:
+              - link [ref=e408] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=114-13&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e409]:
+                  - img "eye outline" [ref=e411]:
+                    - img "Eye" [ref=e413]
+                  - img "Wise" [ref=e416]
+                - heading "Wise" [level=3] [ref=e417]
+                - paragraph [ref=e418]: Web design (UI)
+            - listitem [ref=e419]:
+              - link [ref=e420] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=99-22&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e421]:
+                  - img "eye outline" [ref=e423]:
+                    - img "Eye" [ref=e425]
+                  - img "Bibi Gem" [ref=e428]
+                - heading "Bibi Gem" [level=3] [ref=e429]
+                - paragraph [ref=e430]: Web design (UI)
+            - listitem [ref=e431]:
+              - link [ref=e432] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=81-4&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e433]:
+                  - img "eye outline" [ref=e435]:
+                    - img "Eye" [ref=e437]
+                  - img "Khaana" [ref=e440]
+                - heading "Khaana" [level=3] [ref=e441]
+                - paragraph [ref=e442]: Web design (UI)
+            - listitem [ref=e443]:
+              - link [ref=e444] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=67-121&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e445]:
+                  - img "eye outline" [ref=e447]:
+                    - img "Eye" [ref=e449]
+                  - img "Bibi Phoque" [ref=e452]
+                - heading "Bibi Phoque" [level=3] [ref=e453]
+                - paragraph [ref=e454]: Web design (UI)
+            - listitem [ref=e455]:
+              - link [ref=e456] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=52-2&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e457]:
+                  - img "eye outline" [ref=e459]:
+                    - img "Eye" [ref=e461]
+                  - img "Bibifit" [ref=e464]
+                - heading "Bibifit" [level=3] [ref=e465]
+                - paragraph [ref=e466]: Web design (UI)
+            - listitem [ref=e467]:
+              - link [ref=e468] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=47-2&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e469]:
+                  - img "eye outline" [ref=e471]:
+                    - img "Eye" [ref=e473]
+                  - img "Bibi Products" [ref=e476]
+                - heading "Bibi Products" [level=3] [ref=e477]
+                - paragraph [ref=e478]: Web design (UI/UX)
+            - listitem [ref=e479]:
+              - link [ref=e480] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=33-34&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e481]:
+                  - img "eye outline" [ref=e483]:
+                    - img "Eye" [ref=e485]
+                  - img "Oculus" [ref=e488]
+                - heading "Oculus" [level=3] [ref=e489]
+                - paragraph [ref=e490]: Web design (UI)
+            - listitem [ref=e491]:
+              - link [ref=e492] [cursor=pointer]:
+                - /url: https://bibiflix-react-movie-app.vercel.app/
+                - figure [ref=e493]:
+                  - img "eye outline" [ref=e495]:
+                    - img "Eye" [ref=e497]
+                  - img "BibiFlix Movies" [ref=e500]
+                - heading "BibiFlix Movies" [level=3] [ref=e501]
+                - paragraph [ref=e502]: Application
+            - listitem [ref=e503]:
+              - link [ref=e504] [cursor=pointer]:
+                - /url: https://vishalthapaliya.github.io/platform-management-dashboard/
+                - figure [ref=e505]:
+                  - img "eye outline" [ref=e507]:
+                    - img "Eye" [ref=e509]
+                  - img "Task Manager" [ref=e512]
+                - heading "Task Manager" [level=3] [ref=e513]
+                - paragraph [ref=e514]: Web development
+            - listitem [ref=e515]:
+              - link [ref=e516] [cursor=pointer]:
+                - /url: https://himalayan.fr/
+                - figure [ref=e517]:
+                  - img "eye outline" [ref=e519]:
+                    - img "Eye" [ref=e521]
+                  - img "Himalayan Restaurant" [ref=e524]
+                - heading "Himalayan Restaurant" [level=3] [ref=e525]
+                - paragraph [ref=e526]: Web development
+            - listitem [ref=e527]:
+              - link [ref=e528] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=20-2&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e529]:
+                  - img "eye outline" [ref=e531]:
+                    - img "Eye" [ref=e533]
+                  - img "Bibilon" [ref=e536]
+                - heading "Bibilon" [level=3] [ref=e537]
+                - paragraph [ref=e538]: Web design (UI)
+            - listitem [ref=e539]:
+              - link [ref=e540] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=13-2&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e541]:
+                  - img "eye outline" [ref=e543]:
+                    - img "Eye" [ref=e545]
+                  - img "Artiers" [ref=e548]
+                - heading "Artiers" [level=3] [ref=e549]
+                - paragraph [ref=e550]: Web design (UI)
+            - listitem [ref=e551]:
+              - link [ref=e552] [cursor=pointer]:
+                - /url: https://www.figma.com/proto/QdobAezB4s7WPoYz94u3hT/UI_Design_Challenges?node-id=1-15&t=56A3CCn9lLbXn3St-1
+                - figure [ref=e553]:
+                  - img "eye outline" [ref=e555]:
+                    - img "Eye" [ref=e557]
+                  - img "Manoma" [ref=e560]
+                - heading "Manoma" [level=3] [ref=e561]
+                - paragraph [ref=e562]: Web design (UI)
+            - listitem [ref=e563]:
+              - link [ref=e564] [cursor=pointer]:
+                - /url: https://vishalthapaliya.github.io/restaurant-katmandou/
+                - figure [ref=e565]:
+                  - img "eye outline" [ref=e567]:
+                    - img "Eye" [ref=e569]
+                  - img "Restaurant Katmandou" [ref=e572]
+                - heading "Restaurant Katmandou" [level=3] [ref=e573]
+                - paragraph [ref=e574]: Web development
+            - listitem [ref=e575]:
+              - link [ref=e576] [cursor=pointer]:
+                - /url: https://portfolio-jonathan-tejas.netlify.app/
+                - figure [ref=e577]:
+                  - img "eye outline" [ref=e579]:
+                    - img "Eye" [ref=e581]
+                  - img "Jonathan Tejas" [ref=e584]
+                - heading "Jonathan Tejas" [level=3] [ref=e585]
+                - paragraph [ref=e586]: Web development
+  - contentinfo [ref=e182]: © 2026 | Bishal Thapaliya
