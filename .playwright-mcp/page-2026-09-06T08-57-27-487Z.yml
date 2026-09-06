@@ -1,0 +1,93 @@
+- generic [ref=e2]:
+  - main [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - figure [ref=e6]:
+          - img "Bishal Avatar" [ref=e7]
+        - generic [ref=e8]:
+          - heading "Bishal Thapaliya" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Front-end Developer
+      - generic [ref=e11]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - img "mail outline" [ref=e16]:
+              - img "Mail" [ref=e18]
+            - generic [ref=e21]:
+              - paragraph [ref=e22]: Email
+              - generic "vishal.thapaliya@gmail.com" [ref=e23]
+          - listitem [ref=e24]:
+            - img "phone portrait outline" [ref=e26]:
+              - img "Phone Portrait" [ref=e28]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: Phone
+              - generic "(+33) 07 68 31 94 27" [ref=e33]
+          - listitem [ref=e34]:
+            - img "calendar outline" [ref=e36]:
+              - img "Calendar" [ref=e38]
+            - generic [ref=e50]:
+              - paragraph [ref=e51]: Birthday
+              - generic "19 September" [ref=e52]
+          - listitem [ref=e53]:
+            - img "location outline" [ref=e55]:
+              - img "Location" [ref=e57]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Location
+              - generic "Grenoble, France" [ref=e62]
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link [ref=e66] [cursor=pointer]:
+              - /url: https://github.com/VishalThapaliya
+              - img "logo github" [ref=e67]:
+                - img "Logo Github" [ref=e69]
+          - listitem [ref=e71]:
+            - link [ref=e72] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/bishal-thapaliya-571643109/
+              - img "logo linkedin" [ref=e73]:
+                - img "Logo Linkedin" [ref=e75]
+          - listitem [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: https://x.com/BishalThapaliy5
+              - img "logo twitter" [ref=e79]:
+                - img "Logo Twitter" [ref=e81]
+          - listitem [ref=e83]:
+            - link [ref=e84] [cursor=pointer]:
+              - /url: https://www.xing.com/profile/Bishal_Thapaliya/web_profiles?sc_o=navigation_profile&sc_o_PropActionOrigin=navigation_badge_no_badge
+              - img "logo xing" [ref=e85]:
+                - img "Logo Xing" [ref=e87]
+    - generic [ref=e89]:
+      - navigation [ref=e90]:
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "About" [ref=e93] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e94]:
+            - link "Resume" [ref=e95] [cursor=pointer]:
+              - /url: /resume
+          - listitem [ref=e96]:
+            - link "Portfolio" [ref=e97] [cursor=pointer]:
+              - /url: /portfolio
+          - listitem [ref=e98]:
+            - link "Blog" [ref=e99] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e100]:
+            - link "Contact" [active] [ref=e101] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e102]:
+            - link "Download CV" [ref=e103] [cursor=pointer]:
+              - /url: /assets/Resume_Thapaliya_Bishal-DuDUG5sz.pdf
+      - article [ref=e669]:
+        - heading "Contact" [level=2] [ref=e671]
+        - figure [ref=e673]:
+          - iframe [ref=e674]
+        - generic [ref=e675]:
+          - heading "Contact Form" [level=3] [ref=e676]
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - textbox "Full name" [ref=e679]
+              - textbox "Email address" [ref=e680]
+            - textbox "Your message" [ref=e681]
+            - button "paper plane Send Message" [disabled] [ref=e682]:
+              - img "paper plane" [ref=e683]:
+                - img "Paper Plane" [ref=e685]
+              - generic [ref=e687]: Send Message
+  - contentinfo [ref=e182]: © 2026 | Bishal Thapaliya
