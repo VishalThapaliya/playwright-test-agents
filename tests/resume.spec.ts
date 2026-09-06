@@ -34,6 +34,18 @@ test.describe('Site Pages', () => {
     const contentType = resp.headers()['content-type'] || '';
     expect(contentType).toContain('pdf');
 
-    // 3. Negative: if PDF not reachable, the above assertions will fail and surface status
+    // 3. Negative: verify behavior when PDF resource is missing
+    // Some hosts (SPA deployments) may return 200 and serve index.html for unknown asset paths.
+    // Accept either a non-200 status (true 404) OR a 200 with a non-PDF content-type.
+    const badPdfUrl = new URL('/assets/Resume_NOT_FOUND.pdf', 'https://bishal-thapaliya.netlify.app').toString();
+    const badResp = await request.get(badPdfUrl);
+    const badContentType = badResp.headers()['content-type'] || '';
+    if (badResp.status() === 200) {
+      // If the server returns 200, ensure it's not returning a PDF (SPA fallback or redirect)
+      expect(badContentType.toLowerCase()).not.toContain('pdf');
+    } else {
+      // Prefer 4xx/5xx for missing assets
+      expect(badResp.status()).toBeGreaterThanOrEqual(400);
+    }
   });
 });
